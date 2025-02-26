@@ -46,7 +46,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/447779003_782173920725429_9102021025959021483_n.jpg
       altText: Dope design preview
     badge:
       type: Badge
