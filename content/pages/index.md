@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 'A Picture worth 1,000 words'
       color: text-primary
       type: Badge
     elementId: ''
