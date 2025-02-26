@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: 'A PICTURE WORTH 1,000 WORDS'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
