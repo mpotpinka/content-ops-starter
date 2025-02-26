@@ -17,16 +17,7 @@ sections:
       cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
       est laborum.
 
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/437094286_1957070068045133_6980280919832787301_n.jpg
       altText: Unblock your team boost your time to production preview
