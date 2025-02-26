@@ -37,7 +37,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: A Flower Wall for Every Occasion
       color: text-dark
     subtitle: ''
     text: >
