@@ -27,15 +27,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/437094286_1957070068045133_6980280919832787301_n.jpg
       altText: Unblock your team boost your time to production preview
